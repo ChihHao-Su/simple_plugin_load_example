@@ -9,10 +9,11 @@ using std::string;
 int main(){
     string input = GetInput();
     int migaAge = GetMigaAge();
+    string GetMigaName = GetMigaName();
 
     cout<<input<<endl;
     cout<<migaAge<<endl;
-
+    cout<<GetMigaName<<endl;
 }
 
 
