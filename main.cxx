@@ -14,6 +14,7 @@ int main(){
     cout<<input<<endl;
     cout<<migaAge<<endl;
     cout<<GetMigaName<<endl;
+
 }
 
 
